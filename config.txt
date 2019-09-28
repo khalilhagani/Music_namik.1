@@ -1,6 +1,6 @@
-token=
-owner=  
-prefix= 
-game= Type help
+token=NjI3NTI0ODgxNDMyNzA3MDcy.XY96JQ.-Hen01vKeuRFz2YURDO9lxfcQyo
+owner=570015453376806936 
+prefix=1
+game= Music..1
 stayinchannel=true
 songinstatus=true
